@@ -35,3 +35,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 Feito com 🧡 by Larissa Cauane 
  
+Design by <a href="https://dribbble.com/shots/5097650-A-funny-cookie-policy">Beatrice Castaldo</a>
